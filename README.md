@@ -51,9 +51,8 @@ By analyzing these datasets, insights into movie performance, financial success,
 - Optimal Movie Runtime: Analysis showed the average runtime for successful movies is around 90 minutes, aligning with audience preferences.
 - Genre and Median Ratings: Music-related movies achieved higher median ratings, indicating potential opportunities in this genre.
 - Steady Investment Strategy: Consistent trends in average income per movie around $96 million suggest maintaining steady investment in movie production.
-- Production Budget and Revenue Correlation: Positive correlation between production budgets and worldwide gross revenue emphasizes the importance of budget allocation.
 
-**Restructured Recommendations and Next Steps for Microsoft:**
+**Recommendations and Next Steps for Microsoft:**
 
 **Recommendations:**
 
