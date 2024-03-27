@@ -1,72 +1,59 @@
 # Movie-Project
 
-Microsoft Movie Studio Analysis
+**Microsoft Movie Studio Analysis**
 
-Overview
-Problem Statement:
-Microsoft aims to venture into the film industry by establishing a new movie studio. The objective is to create, produce, and distribute original video content. However, with limited experience in the movie industry, Microsoft needs to gain insights into the types of films that perform well at the box office. This analysis seeks to provide actionable insights to guide Microsoft's new movie studio in making informed decisions about the types of films to create.
+**Overview:**
 
-Business Understanding
-Domain: Film and Entertainment Industry
+**Problem Statement:**
+Microsoft intends to enter the film industry by establishing a new movie studio. The aim is to create, produce, and distribute original video content. However, lacking extensive experience in the movie industry, Microsoft seeks insights into successful film types to inform its decision-making process. This analysis aims to provide actionable insights to guide Microsoft's new movie studio in selecting the types of films to produce.
 
-Stakeholders:
+**Business Understanding:**
 
-Microsoft Production Team:
-Key Questions: 
-How can we ensure that our movies are the meet the criteria for audiences to enjoy?
-How can we optimize the movie production process to ensure a steady output of quality films while managing budgets effectively?
+**Domain:** Film and Entertainment Industry
 
-Microsoft Finance Department:
-Key Questions: 
-How can we ensure that our budget allocation aligns with revenue expectations and that we are making cost-effective decisions?
-How can we plan our movie budgets to ensure a steady income stream?
+**Stakeholders:**
 
-Data Understanding:
-This dataset comprises two main tables. The first table includes columns such as 'movie_id,' 'primary_title,' 'start_year,' 'runtime_minutes,' 'genres,' and 'movie_rating.' These columns provide information about various movies, including their titles, release years, durations, genres, and ratings.
+1. **Microsoft Production Team:**
+   - **Key Questions:** 
+     - How can we ensure our films meet audience criteria for enjoyment?
+     - How can we optimize movie production to maintain a steady output of quality films while managing budgets effectively?
 
-The second table, on the other hand, contains columns like 'id,' 'release_date,' 'movie,' 'production_budget,' 'domestic_gross,' and 'worldwide_gross.' This table focuses on financial aspects, including production budgets, domestic and worldwide gross earnings, and release dates. By analyzing these datasets.
+2. **Microsoft Finance Department:**
+   - **Key Questions:** 
+     - How can we ensure our budget allocation aligns with revenue expectations and maintains cost-effectiveness?
+     - How can we plan movie budgets to ensure a consistent income stream?
 
-We can gain insights into the performance and characteristics of different movies, their financial success, and how factors like genre and runtime may influence their ratings and earnings.
+**Data Understanding:**
 
-The analysis contains the following:
+This dataset consists of two primary tables. The first table includes columns such as 'movie_id,' 'primary_title,' 'start_year,' 'runtime_minutes,' 'genres,' and 'movie_rating,' providing information about various movies, including titles, release years, durations, genres, and ratings.
+
+The second table contains columns like 'id,' 'release_date,' 'movie,' 'production_budget,' 'domestic_gross,' and 'worldwide_gross,' focusing on financial aspects, including production budgets, domestic and worldwide gross earnings, and release dates.
+
+By analyzing these datasets, insights into movie performance, financial success, and factors influencing ratings and earnings such as genre and runtime can be gained.
+
+**The analysis includes the following:**
+
 1. Business Understanding
-2. Importing libraries and datasets
-3. Previewing the datasets
+2. Importing Libraries and Datasets
+3. Previewing the Datasets
 4. Data Cleaning
-5. Exploratory data analysis(Univariate, Bivariate and Multivariate)
+5. Exploratory Data Analysis (Univariate, Bivariate, and Multivariate)
 6. Summary
 7. Recommendations
-   
-Summary of Conclusions:
 
-Enhanced Data Quality Assessment:
-Addressing missing values, duplicates, and inconsistencies significantly improved the reliability of the dataset, making it suitable for analysis.
+**Summary of Conclusions:**
 
-Evaluated Data Completeness:
-We assessed data completeness by analyzing missing values and taking appropriate actions to enhance data quality.
+- Enhanced Data Quality Assessment: Addressing missing values, duplicates, and inconsistencies significantly improved dataset reliability.
+- Evaluated Data Completeness: Actions were taken to enhance data quality by analyzing and addressing missing values.
+- Ensured Data Integrity: Corrected data integrity issues such as negative values to enhance reliability.
+- Refined Data Types: Reviewed and adjusted data types, including date conversion for time-based analysis and numeric conversions for mathematical computations.
+- Derived Descriptive Statistics: Computed descriptive statistics to summarize dataset attributes, providing valuable insights.
+- Optimal Movie Runtime: Analysis showed the average runtime for successful movies is around 90 minutes, aligning with audience preferences.
+- Genre and Median Ratings: Music-related movies achieved higher median ratings, indicating potential opportunities in this genre.
+- Steady Investment Strategy: Consistent trends in average income per movie around $96 million suggest maintaining steady investment in movie production.
+- Production Budget and Revenue Correlation: Positive correlation between production budgets and worldwide gross revenue emphasizes the importance of budget allocation.
 
-Ensured Data Integrity:
-Data integrity issues such as negative values were identified and corrected, contributing to data reliability.
-
-Refined Data Types:
-Data types were reviewed and adjusted, including date conversion for time-based analysis and numeric conversions for mathematical computations.
-
-Derived Descriptive Statistics:
-Descriptive statistics were computed to summarize dataset attributes, providing valuable insights.
-
-Optimal Movie Runtime:
-Analysis revealed that the average runtime for successful movies hovers around 90 minutes, indicating audience preferences.
-
-Genre and Median Ratings:
-Music-related movies achieved higher median ratings, suggesting potential opportunities in this genre.
-
-Steady Investment Strategy:
-A consistent trend in average income per movie around $96 million suggests maintaining a steady investment in movie production.
-
-Production Budget and Revenue Correlation:
-A positive correlation exists between production budgets and worldwide gross revenue, emphasizing the importance of budget allocation
-
-Restructured Recommendations and Next Steps for Microsoft:
+**Restructured Recommendations and Next Steps for Microsoft:**
 
 **Recommendations:**
 
