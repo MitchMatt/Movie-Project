@@ -66,24 +66,25 @@ A consistent trend in average income per movie around $96 million suggests maint
 Production Budget and Revenue Correlation:
 A positive correlation exists between production budgets and worldwide gross revenue, emphasizing the importance of budget allocation
 
-Recommendations
-The recommendations to Microsoft were as follows:
-Based on my findings, I would recommend the following to Microsoft:
-1. Optimal Movie Runtime:
-Consider targeting an average runtime of around 90 minutes for your movies, as this has been the historical average. This duration tends to align with audience preferences and can optimize viewer engagement.
-2. Genre Selection:
-Given that music movies have a higher median rating, consider producing or investing in music-related films as they have a better chance of receiving favorable ratings from viewers. However, also explore other genres that align with your studio's vision and capabilities
-3. Budget and Revenue:
-Recognize the positive correlation between production budget and worldwide gross revenue. While investing more in a movie may lead to higher returns, be cautious and conduct thorough financial analysis and risk assessment for high-budget productions. Consider a balanced portfolio of both high and low-budget films to mitigate risk
-4. Steady Investment:
- Given that the average income per movie has been relatively stable for most years (around $96 million), Microsoft should plan for a steady investment in movie production to maintain consistent revenue. This can involve setting an annual budget for movie production.
-5. Diersify Portfolio: 
-As evident, movie production took a downward trend in 2019. I would recommend considering diversifying the movie portfolio to mitigate risks associated with fluctuations in movie production. Instead of relying heavily on a single year's output, aim for a more balanced and sustainable production strategy.
-Next steps
-The next steps recommended to Microsoft are:
-1.	Film Development Strategy:
-•	Microsoft should start by analyzing its existing movie development pipeline to see how well it aligns with the optimal movie runtime and genre selection recommendations. This involves evaluating current projects and considering adjustments or new projects that fit the 90-minute runtime and prioritize music-related genres.
-2.	Budget Planning:
-•	Conduct a detailed financial analysis for upcoming projects. This includes estimating the potential return on investment (ROI) for both high and low-budget films. Microsoft should set a budget for movie production based on this analysis, ensuring that it's in line with the company's financial goals.
-3.	Risk Assessment:
-•	Implement a robust risk assessment process that evaluates the potential risks associated with each movie project. High-budget productions may offer higher returns, but they also carry higher risks. Microsoft should have a risk mitigation strategy in place for these projects, which could include insurance, partnerships, or co-productions.
+Restructured Recommendations and Next Steps for Microsoft:
+
+**Recommendations:**
+
+1. **Optimal Movie Runtime:** Target an average runtime of approximately 90 minutes for movies to align with historical audience preferences and optimize engagement.
+
+2. **Genre Selection:** Prioritize music-related films, which tend to have higher median ratings, while also exploring other genres that complement the studio's vision and capabilities.
+
+3. **Steady Investment:** Maintain a consistent level of investment in movie production to sustain revenue, aiming for an annual budget based on historical income averages.
+
+4. **Diversify Portfolio:** Mitigate risks associated with fluctuations in movie production by diversifying the movie portfolio to ensure a balanced and sustainable strategy.
+
+**Next Steps:**
+
+1. **Film Development Strategy:**
+   - Assess the existing movie development pipeline to ensure alignment with recommended runtime and genre preferences.
+   - Evaluate current projects for adjustments and consider new projects that fit the established criteria.
+
+2. **Budget Planning:**
+   - Conduct a thorough financial analysis for upcoming projects, estimating ROI for various budget scenarios.
+   - Establish a budget for movie production that supports strategic objectives and financial goals.
+   - Implement regular budget reviews to optimize resource allocation and maximize ROI throughout the production process.
