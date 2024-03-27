@@ -1,10 +1,10 @@
 # Movie-Project
-# Movie_Project-1
 
 Microsoft Movie Studio Analysis
 
 Overview
-Problem Statement: Microsoft aims to venture into the film industry by establishing a new movie studio. The objective is to create, produce, and distribute original video content. However, with limited experience in the movie industry, Microsoft needs to gain insights into the types of films that perform well at the box office. This analysis seeks to provide actionable insights to guide Microsoft's new movie studio in making informed decisions about the types of films to create.
+Problem Statement:
+Microsoft aims to venture into the film industry by establishing a new movie studio. The objective is to create, produce, and distribute original video content. However, with limited experience in the movie industry, Microsoft needs to gain insights into the types of films that perform well at the box office. This analysis seeks to provide actionable insights to guide Microsoft's new movie studio in making informed decisions about the types of films to create.
 
 Business Understanding
 Domain: Film and Entertainment Industry
@@ -33,7 +33,7 @@ The analysis contains the following:
 2. Importing libraries and datasets
 3. Previewing the datasets
 4. Data Cleaning
-5. Exploratory data analysis(Univeriate, Bivariate and Multivariate)
+5. Exploratory data analysis(Univariate, Bivariate and Multivariate)
 6. Summary
 7. Recommendations
    
@@ -87,4 +87,3 @@ The next steps recommended to Microsoft are:
 •	Conduct a detailed financial analysis for upcoming projects. This includes estimating the potential return on investment (ROI) for both high and low-budget films. Microsoft should set a budget for movie production based on this analysis, ensuring that it's in line with the company's financial goals.
 3.	Risk Assessment:
 •	Implement a robust risk assessment process that evaluates the potential risks associated with each movie project. High-budget productions may offer higher returns, but they also carry higher risks. Microsoft should have a risk mitigation strategy in place for these projects, which could include insurance, partnerships, or co-productions.
-![image](https://github.com/MitchMatt/Movie-Project/assets/164322878/abf7789f-3659-40bd-9f39-3f2cf3eb7326)
